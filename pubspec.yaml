@@ -46,7 +46,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
   flutter_screenutil: ^5.9.3
-  device_preview: ^1.1.0  # or latest version
+  device_preview:
   http:
 
 
